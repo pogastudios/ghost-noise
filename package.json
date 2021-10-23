@@ -1,6 +1,6 @@
 {
 	"name": "com.pogainteractive.ghostnoise",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"displayName": "Ghost-Noise",
 	"description": "Procedural Noise Library",
 	"unity": "2019.1",
@@ -16,7 +16,7 @@
 		"gen"
 	],
 	"author": {
-		"name": "POGA Development Team",
+		"name": "POGA Interactive",
 		"email": "contact@pogainteractive.com",
 		"url": "https://www.pogainteractive.com"
 	}
